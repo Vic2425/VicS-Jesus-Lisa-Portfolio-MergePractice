@@ -1,5 +1,7 @@
 .clearfix {
-    font-size: 205px;
+
+    font-size: 20px;
+
     transition: all .2s ease-in-out;
 }
 li.nav-list:hover {
