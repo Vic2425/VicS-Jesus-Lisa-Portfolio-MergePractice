@@ -1,0 +1,7 @@
+.clearfix {
+    font-size: 205px;
+    transition: all .2s ease-in-out;
+}
+li.nav-list:hover {
+    transform: scale(1.1);
+}
