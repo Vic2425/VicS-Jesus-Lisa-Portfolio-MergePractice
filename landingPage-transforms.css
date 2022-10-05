@@ -1,10 +1,8 @@
-.nav-list {
-    transition-delay: 0.5s;
-    transition-duration: 2s;
-
-}
-
-.nav-list:hover {
-    transform: scale(.5);
+.clearfix {
     font-size: 20px;
+    transition: all .2s ease-in-out;
+}
+li.nav-list:hover {
+    transform: scale(1.1);
+
 }
